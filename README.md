@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehkey&hide=javascript)](https://github.com/mehkey/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehkey&exclude_repo=leetcode&hide=jupyter%20notebook&hide=)](https://github.com/mehkey/github-readme-stats)
 
 
 <!--
