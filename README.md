@@ -1,7 +1,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehkey&exclude_repo=leetcode&hide=jupyter%20notebook&custom_title=Top%20Languages&langs_count=10)](https://github.com/mehkey/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehkey&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehkey&show_icons=true&hide=stars,prs,issues,contribs)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehkey&repo=system-design)](https://github.com/mehkey/system-design)
